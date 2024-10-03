@@ -16,7 +16,7 @@ parts:
     - file: intro_to_plotting
     - file: plotting_seaborn
     - file: data_apis
-#     - file: html_data
+    - file: html_data
 #     - file: folium_exs-clean
 #     - file: intro_to_git_and_github       
 #   - caption: Introduction to Predictive Modeling
@@ -48,5 +48,8 @@ parts:
     - file: numpy-challenge-1
     - file: numpy-challenge-2
     - file: numpy-challenge-3
+    - file: bonus/Bonus_Plotting_with_bokeh
+    - file: bonus/Bonus_Plotly
+    - file: bonus/intro_ipywidgets
     
  
