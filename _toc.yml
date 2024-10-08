@@ -17,6 +17,8 @@ parts:
     - file: plotting_seaborn
     - file: data_apis
     - file: html_data
+    - file: discrete_starter
+    - file: continuous_starter
 #     - file: folium_exs-clean
 #     - file: intro_to_git_and_github       
 #   - caption: Introduction to Predictive Modeling
@@ -42,6 +44,8 @@ parts:
     chapters:
     - file: homework/homework_I
     - file: homework/homework_II
+    - file: homework/homework_III
+    - file: homework/homework_IV
     
   - caption: Extra Problems
     chapters: 
